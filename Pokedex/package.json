@@ -30,6 +30,6 @@
   "description": "",
   "devDependencies": {
     "redux-logger": "^3.0.6",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   }
 }
